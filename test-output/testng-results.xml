@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T14:42:55Z" name="Default suite" finished-at="2022-01-17T14:43:24Z" duration-ms="28525">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T14:42:55Z" name="Default test" finished-at="2022-01-17T14:43:24Z" duration-ms="28525">
+      <class name="NTUCIncomeTest.NTUCIncome">
+        <test-method is-config="true" signature="setup()[pri:0, instance:NTUCIncomeTest.NTUCIncome@1df82230]" started-at="2022-01-17T14:42:55Z" name="setup" finished-at="2022-01-17T14:42:55Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GitHubAPI()[pri:0, instance:NTUCIncomeTest.NTUCIncome@1df82230]" started-at="2022-01-17T14:42:55Z" name="GitHubAPI" finished-at="2022-01-17T14:43:12Z" duration-ms="16938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GitHubAPI -->
+        <test-method signature="GitHubWebUI()[pri:0, instance:NTUCIncomeTest.NTUCIncome@1df82230]" started-at="2022-01-17T14:43:12Z" name="GitHubWebUI" finished-at="2022-01-17T14:43:24Z" duration-ms="11179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GitHubWebUI -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:NTUCIncomeTest.NTUCIncome@1df82230]" started-at="2022-01-17T14:43:24Z" name="tearDown" finished-at="2022-01-17T14:43:24Z" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- NTUCIncomeTest.NTUCIncome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
